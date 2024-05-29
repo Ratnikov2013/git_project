@@ -1,2 +1,2 @@
 def print_world():
-    print("Hello World")
+    print("Hello Linux")
